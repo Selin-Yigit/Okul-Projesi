@@ -1,0 +1,17 @@
+C:\Users\Selin\Desktop\C_Sharp_Uygulamalri\OkulProjesi\bin\Debug\OkulProjesi.exe.config
+C:\Users\Selin\Desktop\C_Sharp_Uygulamalri\OkulProjesi\bin\Debug\OkulProjesi.exe
+C:\Users\Selin\Desktop\C_Sharp_Uygulamalri\OkulProjesi\bin\Debug\OkulProjesi.pdb
+C:\Users\Selin\Desktop\C_Sharp_Uygulamalri\OkulProjesi\obj\Debug\OkulProjesi.csproj.AssemblyReference.cache
+C:\Users\Selin\Desktop\C_Sharp_Uygulamalri\OkulProjesi\obj\Debug\OkulProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Selin\Desktop\C_Sharp_Uygulamalri\OkulProjesi\obj\Debug\OkulProjesi.FrmGiris.resources
+C:\Users\Selin\Desktop\C_Sharp_Uygulamalri\OkulProjesi\obj\Debug\OkulProjesi.Properties.Resources.resources
+C:\Users\Selin\Desktop\C_Sharp_Uygulamalri\OkulProjesi\obj\Debug\OkulProjesi.csproj.GenerateResource.cache
+C:\Users\Selin\Desktop\C_Sharp_Uygulamalri\OkulProjesi\obj\Debug\OkulProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Selin\Desktop\C_Sharp_Uygulamalri\OkulProjesi\obj\Debug\OkulProjesi.exe
+C:\Users\Selin\Desktop\C_Sharp_Uygulamalri\OkulProjesi\obj\Debug\OkulProjesi.pdb
+C:\Users\Selin\Desktop\C_Sharp_Uygulamalri\OkulProjesi\obj\Debug\OkulProjesi.FrmOgrenciNotlar.resources
+C:\Users\Selin\Desktop\C_Sharp_Uygulamalri\OkulProjesi\obj\Debug\OkulProjesi.FrmOgretmen.resources
+C:\Users\Selin\Desktop\C_Sharp_Uygulamalri\OkulProjesi\obj\Debug\OkulProjesi.FrmKulupFormu.resources
+C:\Users\Selin\Desktop\C_Sharp_Uygulamalri\OkulProjesi\obj\Debug\OkulProjesi.FrmDersler.resources
+C:\Users\Selin\Desktop\C_Sharp_Uygulamalri\OkulProjesi\obj\Debug\OkulProjesi.FrmOgrenciIslemleri.resources
+C:\Users\Selin\Desktop\C_Sharp_Uygulamalri\OkulProjesi\obj\Debug\OkulProjesi.FrmSinavNotlari.resources
